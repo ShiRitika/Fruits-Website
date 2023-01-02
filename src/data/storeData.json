@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9L3qq-jONZKpMgAJK_LIWvcW0JpBsqkJbuA&usqp=CAU",
+        "name": "Apple",
+        "price": 2.26
+    },
+    {
+        "id" : 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuAp2xH0DxG2Jp7gdTA6G-joyKD0ELL8Q2Q&usqp=CAU",
+        "name": "Mango",
+        "price": 1.21
+    },
+    {
+        "id" : 3,
+        "image": "https://media.istockphoto.com/id/1131704553/photo/whole-and-slices-watermelon-with-green-leaves-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=TbTfOo26HY63ItmA-a233n6G4kekBVmYv6a5z4dNBQc=",
+        "name": "Watermelon",
+        "price": 1.79
+    },
+    {
+        "id" : 4,
+        "image": "https://media.istockphoto.com/id/864053288/photo/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=hJ5DpNTt0oKjZMIHYV6gUHTntB2zIs_78dPKiuDUXgE=",
+        "name": "Papaya",
+        "price": 1.45
+    },
+    {
+        "id" : 5,
+        "image": "https://www.collinsdictionary.com/images/full/orange_342874121.jpg",
+        "name": "Orange",
+        "price": 1.52
+    },
+    {
+        "id" : 6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Banana_Fruit.JPG",
+        "name": "Banana",
+        "price": 0.48
+    },
+    {
+        "id" : 7,
+        "image": "https://media.istockphoto.com/id/869246292/photo/fresh-pineapple-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=IZBgmcmY9Dg_PEkqzqwPPDyAilJ8R3vtYZwzTz6oiEw=",
+        "name": "Pineapple",
+        "price": 1.34
+    },
+    {
+        "id" : 8,
+        "image": "https://media.istockphoto.com/id/940118920/photo/ripe-pomegranate-fruit-and-one-cut-in-half-with-leaf.jpg?s=612x612&w=0&k=20&c=iVTrJvW6rtFTlsWk5J3v1r1NeCgNtZMD4qDJIh3sfik=",
+        "name": "Pomegranate",
+        "price": 2.43
+    },
+    {
+        "id": 9,
+        "image": "https://static6.depositphotos.com/1032496/629/i/600/depositphotos_6296971-stock-photo-custard-apple.jpg",
+        "name": "Custurd Apple",
+        "price": 2.02
+    },
+    {
+        "id": 10,
+        "image": "https://media.istockphoto.com/id/543564492/photo/coconut-with-half-and-leaves-on-white-background.jpg?s=612x612&w=0&k=20&c=5DOZf3Lu0ovT3iPSJ_sa4omWq4HfzANznfOYKAuswA8=",
+        "name": "Coconut",
+        "price": 0.34
+    },
+    {
+        "id": 11,
+        "image": "https://cf.ltkcdn.net/wine/images/std/165373-800x532r1-grapes.jpg",
+        "name": "Grapes",
+        "price": 1.51
+    },
+    {
+        "id": 12,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpQcfTJvpAFt4nF66NjqdrFQSC6rkNaUYpA&usqp=CAU",
+        "name": "Star Fruit",
+        "price": 3.62
+    },
+    {
+        "id": 13,
+        "image": "https://img.freepik.com/premium-photo/guava-fruit-white-table_253984-3144.jpg?w=2000",
+        "name": "Guava",
+        "price": 1.51
+    },
+    {
+        "id": 14,
+        "image": "https://cdn.shopify.com/s/files/1/2028/2057/articles/Evidence-Based_0c2e7cf7-9a14-438f-a65b-ab7cce47c279_1024x400.jpg?v=1642487732",
+        "name": "Litchi",
+        "price": 0.72
+    },
+    {
+        "id": 15,
+        "image": "https://thumbs.dreamstime.com/b/avocado-18188183.jpg",
+        "name": "Avocado",
+        "price": 4.46
+    },
+    {
+        "id": 16,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9H5jaV2VE6yp1rj-ESq8avQbVE4m6vIoknFJPv2ccSVfMtfU0q990rFghedbmAeBSsw&usqp=CAU",
+        "name": "Cherry",
+        "price": 3.01
+    }
+]

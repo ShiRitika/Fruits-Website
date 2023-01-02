@@ -1,4 +1,36 @@
-# Getting Started with Create React App
+# Store Website
+
+## Poject Desrciption:
+
+Fruits Store Website is a single page Application made of using Javascript's very popular library React-js with TypeScript using Material-UI. It have a Navbar at the top of application which have links to route on different pages(you can route on Home, About, Store). it contains clickable Add to cart buttons , and having many products to explore. In this project mainly focused on Typescript and Shopping cart using Redux.
+Shopping carts are one of the most common things to build as a web developer, but there is a lot that goes into building a good shopping cart. In this project I had mentioned how to build a fully functional shopping cart using React, TypeScript, and Material-UI. This is a great intermediate level project.
+
+## Technology Used:
+- React JS : React JS is a Javascript library used to develop the application.
+- TypeScript : TypeScript is a syntactic superset of JavaScript which adds static typing. This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match.
+- Material-UI : Some Material-UI components like Icons, Grid, Badge, Typography , MakeStyle, Button, Styled is Used.
+- Javascript :
+- JSX : Javascript XML is used to structure the page.
+- Material CSS : MUI makestyle is used to style the page and make it more beutiful and attractive.
+- Basic CSS: used to provide basic comfortability to website.
+- Redux:  It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data.
+- React-Toastify: This tool allows you to add toast notifications to your application with ease and can also be used to set notifications and alerts.
+
+## What I've Learnt :
+
+- About some material-UI components and how to used them.
+- Setup of  React-js with TYpeScript and material-UI installation.
+- Setup ES Lint and identifying its error and resolving them.
+- writing clean and structure code.
+- How to use props.
+- implementation of Map function.
+- React Routing with link , path etc.
+- how to use useState, UseEffect, onClick event handling,etc.
+- how to add Typescript Syntax.
+- how to use redux in project, by increasing counter value and updating data.
+- how to use toastify notification for any update.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -14,33 +46,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

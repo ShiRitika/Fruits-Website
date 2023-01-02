@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Walker",
+        "designation": "Social Marketing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKi_A96nBiVEFkoS5fFKYGWOZFbnJnMvUBquI3xwAKI9cTbpjsi9vlGJ15mOG89v23zhM&usqp=CAU",
+        "description": "Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+    },
+    {
+        "id": 2,
+        "name": "Cris Horwang",
+        "designation": "Assts. Manager",
+        "image": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg",
+        "description": "Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+    },
+    {
+        "id": 3,
+        "name": "Albert Huynaya",
+        "designation": "Smoothie Bartender",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RHj5aBArvQQQtkpqkJU3MzDrr2ji2rg00w&usqp=CAU",
+        "description": "Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+    },
+    {
+        "id": 4,
+        "name": "Mourinho",
+        "designation": "seo",
+        "image": "https://t4.ftcdn.net/jpg/02/41/80/03/360_F_241800366_vOVZNPPuPvDVmtG1yZgNW7D5er0KFaJ0.jpg",
+        "description": "Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+    }
+]
