@@ -34,17 +34,89 @@ Shopping carts are one of the most common things to build as a web developer, bu
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `npm start`
+ open project enter in shopping-cart folder and run command "npm start"
+ like this:-
+ ![terminal](ReadmeImage/terminal.png)
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### Home - Page
+
+Home Screen -  Header
+![Header](ReadmeImage/homeHeader.png)
+- This is main home page footer part. if click on odernow button it will redirect to store page.
+
+BuyNow- Section
+![BuyNow](ReadmeImage/buynow.png)
+- This is main home page BUY now part.
+
+Fetured- Section
+![Fetured](ReadmeImage/fetured.png)
+- This is main home page Fetured part.
+
+Shop Now - Section
+![shop-now](ReadmeImage/shopnow.png)
+- This is main home page shop Now section. if click on Shop now button it will redirect to store page.
+
+Testimonial - Section
+![Testmonial](ReadmeImage/testmonial.png)
+- This is main home page Testimonials part.
+
+-Footer - Section
+![footer](ReadmeImage/footer.png)
+- This is main home page Testimonials part.
+
+### About- us - Page
+
+About Screen - Header
+![ Header](ReadmeImage/aboutHeader.png)
+- This is About-us page Header part.
+
+Know us- Section
+![Know us](ReadmeImage/aboutKnowus.png)
+- This is Aboutus page Know-us part.
+
+Meet Our Team- Section
+![Team](ReadmeImage/aboutTeam.png)
+- This is Aboutus page Meet our Team part.
+
+Our Client - Section
+![Client](ReadmeImage/aboutClient.png)
+- This is Aboutus page Our Client.
+- click on any image of client user are able to see review of that client.
+
+Footer - Section
+![footer](ReadmeImage/footer.png).
+
+### Store - Page
+![store](ReadmeImage/store.png)
+- This is Store page here user can shop by clixking on buy now button it will redirect to Add to cart page.
+
+### Product Details - Page
+![store](ReadmeImage/ProductDetails.png)
+- This is Product Detail page here user can Add or decrement the number of products. and notification also come whenever user increment and decrement now item is added in cart.
+
+### Cart - Page
+![Cart](ReadmeImage/cart.png)
+- This is product Cart page here user see there added items with price,quantity, total price, and total cost price of all items user can delete or remove some products by clicking on delete button.  and also a clear button it clear the cart item and notification also come whenever detele button or clear button is cxlicked. data diplayed in cart item page from local storage so that if page refresh last data not goint to be lost.
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 
 
