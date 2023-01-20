@@ -100,7 +100,11 @@ Footer - Section
 
 ### Cart - Page
 ![Cart](ReadmeImage/cart.png)
-- This is product Cart page here user see there added items with price,quantity, total price, and total cost price of all items user can delete or remove some products by clicking on delete button.  and also a clear button it clear the cart item and notification also come whenever detele button or clear button is cxlicked. data diplayed in cart item page from local storage so that if page refresh last data not goint to be lost.
+- This is product Cart page here user see there added items with price,quantity, total price, and total cost price of all items user can delete or remove some products by clicking on delete button.  and also a clear button it clear the cart item and notification also come whenever detele button or clear button is cxlicked. data diplayed in cart item page from local storage so that if page refresh last data not going to be lost.
+
+
+## Project Deployed on-
+https://fruits-wala-website-dc561.web.app
 
 
 
@@ -108,14 +112,6 @@ Footer - Section
 
 
 
-
-
-
-
-
-## Available Scripts
-
-In the project directory, you can run:
 
 
 
